@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tabalyst-feedst
 
 Home: https://tabalyst.com/
 
-Package license: MIT
+Package license: MPL-2.0
 
 Summary: Open-source data profiling engine for structured JSON and customizable HTML reports.
 
