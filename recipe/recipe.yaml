@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.7.5"
+  version: "0.7.6"
 
 package:
   name: tabalyst
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/tabalyst/tabalyst-${{ version }}.tar.gz
-  sha256: 3b41951eeedd2c25d3d6fdceaf84a414d22486071e8cd14d0951d58841e81bc9
+  sha256: 8b16fd419c2aa3ba126fb5eec09520fcd5025758d002cb4a3ab3ad286097dfc2
 
 build:
   number: 0
